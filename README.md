@@ -28,6 +28,11 @@ The full list, with what's next and what's done, is in [learning.md](learning.md
 
 - [Rust](rust.md): the book, exercises, async and web, crates, AWS SDK
 
+## Career
+
+- [Interview](interview.md): AI engineering, MLOps, DevOps and SRE, behavioral, engineering blogs, job boards
+- [Communication](communication.md): American English accent, listening and speaking, soft skills, technical writing
+
 ## Command line and tools
 
 - [CLI](cli.md): Bash, sed, awk and one-liners
