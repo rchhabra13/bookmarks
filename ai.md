@@ -67,7 +67,7 @@
 - [NVIDIA Dynamo: datacenter scale distributed inference](https://github.com/ai-dynamo/dynamo)
 - [vLLM production-stack](https://github.com/vllm-project/production-stack)
 - [AIBrix: GenAI inference infrastructure](https://github.com/vllm-project/aibrix)
-- [KubeAI: AI inference operator](https://github.com/substratusai/kubeai)
+- [KubeAI: AI inference operator](https://github.com/kubeai-project/kubeai)
 - [LeaderWorkerSet (LWS): multi-host pod groups](https://github.com/kubernetes-sigs/lws)
 - [Gateway API Inference Extension](https://github.com/kubernetes-sigs/gateway-api-inference-extension)
 - [LMCache: KV cache layer](https://github.com/LMCache/LMCache)
@@ -90,4 +90,4 @@
 
 ## Papers
 
-- See [PAPERS.md](./PAPERS.md)
+- See [papers.md](papers.md)

@@ -1,6 +1,8 @@
 # Tools
 
-## CLI
+Shell scripting guides live in [cli.md](cli.md).
+
+## Command-line tools
 
 - [fzf: fuzzy finder](https://github.com/junegunn/fzf)
 - [ripgrep](https://github.com/BurntSushi/ripgrep)
