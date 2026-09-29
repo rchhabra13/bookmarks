@@ -12,8 +12,8 @@ The full list, with what's next and what's done, is in [learning.md](learning.md
 
 ## AI and ML
 
-- [AI](ai.md): LLM fundamentals, prompting, agents, AI for SRE, inference and serving (vLLM, llm-d, SGLang, MLX), FDE career resources
-- [Papers](papers.md): research papers on transformers, alignment, agents, fine-tuning and LLM serving
+- [AI](ai.md): LLM fundamentals, prompting, agents, agent memory, AI for SRE, inference and serving (vLLM, llm-d, SGLang, MLX), FDE career resources
+- [Papers](papers.md): research papers on transformers, alignment, agents, agent memory, fine-tuning and LLM serving
 - [ML](ml.md): courses, books, frameworks and MLOps
 
 ## Infrastructure

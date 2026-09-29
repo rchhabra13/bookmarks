@@ -25,6 +25,17 @@
 - [ReAct: Synergizing Reasoning and Acting in Language Models (2022)](https://arxiv.org/abs/2210.03629)
 - [Toolformer: Language Models Can Teach Themselves to Use Tools (2023)](https://arxiv.org/abs/2302.04761)
 
+## Agent memory
+
+- [Generative Agents: Interactive Simulacra of Human Behavior (2023)](https://arxiv.org/abs/2304.03442)
+- [MemGPT: Towards LLMs as Operating Systems (2023)](https://arxiv.org/abs/2310.08560)
+- [Evaluating Very Long-Term Conversational Memory of LLM Agents, LoCoMo (2024)](https://arxiv.org/abs/2402.17753)
+- [LongMemEval: Benchmarking Chat Assistants on Long-Term Interactive Memory (2024)](https://arxiv.org/abs/2410.10813)
+- [Zep: A Temporal Knowledge Graph Architecture for Agent Memory (2025)](https://arxiv.org/abs/2501.13956)
+- [A-MEM: Agentic Memory for LLM Agents (2025)](https://arxiv.org/abs/2502.12110)
+- [Mem0: Building Production-Ready AI Agents with Scalable Long-Term Memory (2025)](https://arxiv.org/abs/2504.19413)
+- [Memory in the Age of AI Agents: A Survey (2025)](https://arxiv.org/abs/2512.13564)
+
 ## Fine-tuning and quantization
 
 - [LoRA: Low-Rank Adaptation of Large Language Models (2021)](https://arxiv.org/abs/2106.09685)

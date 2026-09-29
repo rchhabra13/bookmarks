@@ -27,6 +27,19 @@
 - [Model Context Protocol](https://modelcontextprotocol.io/)
 - [LangGraph](https://langchain-ai.github.io/langgraph/)
 
+## Agent memory
+
+- [Memory tool (Claude docs)](https://platform.claude.com/docs/en/agents-and-tools/tool-use/memory-tool)
+- [Memory and context management cookbook (Claude)](https://platform.claude.com/cookbook/tool-use-memory-cookbook)
+- [Mem0: memory layer for AI agents](https://github.com/mem0ai/mem0)
+- [Letta (formerly MemGPT): stateful agents with long-term memory](https://github.com/letta-ai/letta)
+- [Graphiti (Zep): temporal knowledge graphs for agent memory](https://github.com/getzep/graphiti)
+- [LangMem: long-term memory for LangGraph agents](https://github.com/langchain-ai/langmem)
+- [A-MEM: Zettelkasten-style agentic memory](https://github.com/agiresearch/A-mem)
+- [Agent Memory Paper List](https://github.com/Shichun-Liu/Agent-Memory-Paper-List)
+- [State of AI Agent Memory 2026 (Mem0 blog)](https://mem0.ai/blog/state-of-ai-agent-memory-2026)
+- [Best AI Agent Memory Frameworks in 2026 (Atlan)](https://atlan.com/know/best-ai-agent-memory-frameworks-2026/)
+
 ## AI for SRE and DevOps
 
 - [HolmesGPT: SRE agent (CNCF Sandbox)](https://github.com/HolmesGPT/holmesgpt)
