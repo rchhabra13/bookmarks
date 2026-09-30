@@ -42,6 +42,7 @@ Exam prep lives in [cka.md](cka.md).
 - [How To Develop Kubernetes CLIs Like a Pro](https://iximiuz.com/en/posts/kubernetes-api-go-cli/)
 - [An example of using dynamic client of k8s.io/client-go](https://ymmt2005.hatenablog.com/entry/2020/04/14/An_example_of_using_dynamic_client_of_k8s.io/client-go)
 - [The Kubernetes dynamic client](https://caiorcferreira.github.io/post/the-kubernetes-dynamic-client/)
+- [Kubernetes Python client](https://github.com/kubernetes-client/python)
 
 ## Configuration
 
@@ -100,6 +101,7 @@ Exam prep lives in [cka.md](cka.md).
 
 - [NSA, CISA release Kubernetes Hardening Guidance](https://www.nsa.gov/News-Features/Feature-Stories/Article-View/Article/2716980/nsa-cisa-release-kubernetes-hardening-guidance/)
 - [RBAC](https://rbac.dev/)
+- [Using RBAC Authorization (Kubernetes docs)](https://kubernetes.io/docs/reference/access-authn-authz/rbac/)
 - [Kubernetes Single Sign On: A detailed guide](https://www.talkingquickly.co.uk/kubernetes-sso-a-detailed-guide)
 - [How to Generate a Self-Signed Certificate for Kubernetes](https://phoenixnap.com/kb/kubernetes-ssl-certificates)
 - [Running Vault and Consul on Kubernetes](https://testdriven.io/blog/running-vault-and-consul-on-kubernetes/)

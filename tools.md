@@ -47,4 +47,6 @@ Shell scripting guides live in [cli.md](cli.md).
 ## Observability
 
 - [Prometheus overview](https://prometheus.io/docs/introduction/overview/)
+- [Querying Prometheus: PromQL basics](https://prometheus.io/docs/prometheus/latest/querying/basics/)
+- [Prometheus HTTP API](https://prometheus.io/docs/prometheus/latest/querying/api/)
 - [Grafana docs](https://grafana.com/docs/grafana/latest/)

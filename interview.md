@@ -26,6 +26,7 @@ page holds the rest.
 
 - [DevOps Roadmap (milanm)](https://github.com/milanm/DevOps-Roadmap)
 - [Awesome SRE](https://github.com/dastergon/awesome-sre)
+- [Site Reliability Engineering book (Google)](https://sre.google/sre-book/table-of-contents/)
 - [How They SRE: SRE practices from company blogs](https://github.com/upgundecha/howtheysre)
 - [DevOps interview questions with video walkthroughs](https://github.com/devops-interviews/devops-interview-questions)
 - [DevOps, SRE and platform interview questions (NotHarshhaa)](https://github.com/NotHarshhaa/DevOps-Interview-Questions)

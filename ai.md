@@ -15,6 +15,7 @@
 ## Prompting and APIs
 
 - [Claude docs](https://docs.claude.com/)
+- [Tool use (Claude docs)](https://docs.claude.com/en/docs/agents-and-tools/tool-use/overview)
 - [OpenAI Cookbook](https://cookbook.openai.com/)
 - [Prompt Engineering Guide](https://www.promptingguide.ai/)
 
@@ -25,6 +26,7 @@
 - [LLM Powered Autonomous Agents (Lilian Weng)](https://lilianweng.github.io/posts/2023-06-23-agent/)
 - [Hugging Face Agents Course](https://huggingface.co/learn/agents-course)
 - [Model Context Protocol](https://modelcontextprotocol.io/)
+- [MCP Python SDK](https://github.com/modelcontextprotocol/python-sdk)
 - [LangGraph](https://langchain-ai.github.io/langgraph/)
 
 ## Agent memory
@@ -80,6 +82,17 @@
 - [Awesome SRE Agents](https://github.com/last9/awesome-sre-agents)
 - [k8sgpt: scan and explain Kubernetes issues with LLMs](https://github.com/k8sgpt-ai/k8sgpt)
 - [kagent: cloud native agentic AI on Kubernetes](https://github.com/kagent-dev/kagent)
+- [HolmesGPT docs](https://holmesgpt.dev/)
+- [K8sGPT docs](https://docs.k8sgpt.ai/)
+- [kagent docs](https://kagent.dev/docs/kagent/)
+- [kubernetes-mcp-server: MCP server for Kubernetes, with evals and a read-only ServiceAccount guide](https://github.com/containers/kubernetes-mcp-server)
+
+## Agent security and prompt injection
+
+- [Prompt injection series (Simon Willison)](https://simonwillison.net/series/prompt-injection/)
+- [Design Patterns for Securing LLM Agents against Prompt Injections (Simon Willison)](https://simonwillison.net/2025/Jun/13/prompt-injection-design-patterns/)
+- [CaMeL: a DeepMind approach to prompt injection (Simon Willison)](https://simonwillison.net/2025/Apr/11/camel/)
+- [Agents Rule of Two and The Attacker Moves Second (Simon Willison)](https://simonwillison.net/2025/Nov/2/new-prompt-injection-papers/)
 
 ## RAG and LLM apps in production
 
