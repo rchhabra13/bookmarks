@@ -40,6 +40,40 @@
 - [State of AI Agent Memory 2026 (Mem0 blog)](https://mem0.ai/blog/state-of-ai-agent-memory-2026)
 - [Best AI Agent Memory Frameworks in 2026 (Atlan)](https://atlan.com/know/best-ai-agent-memory-frameworks-2026/)
 
+## Agent sandboxes
+
+### Isolation runtimes
+
+- [Firecracker: microVMs](https://github.com/firecracker-microvm/firecracker)
+- [gVisor: userspace kernel](https://github.com/google/gvisor)
+- [Kata Containers: containers in lightweight VMs](https://github.com/kata-containers/kata-containers)
+- [E2B: open source sandboxes for AI agents](https://github.com/e2b-dev/E2B)
+- [sandbox-runtime (Anthropic): local sandbox for coding agents](https://github.com/anthropic-experimental/sandbox-runtime)
+
+### Build and hands-on
+
+- [agent-sandbox (kubernetes-sigs)](https://github.com/kubernetes-sigs/agent-sandbox)
+- [agent-sandbox docs](https://agent-sandbox.sigs.k8s.io/)
+- [cased-sandboxes: one Python interface over E2B, Modal, Daytona, Vercel and Sprites](https://pypi.org/project/cased-sandboxes/)
+- [AgentCoreSandbox integration (LangChain)](https://docs.langchain.com/oss/python/integrations/sandboxes/aws)
+- [Build research agents with Deep Agents and Bedrock AgentCore (AWS)](https://aws.amazon.com/blogs/machine-learning/build-context-rich-research-agents-with-deep-agents-and-bedrock-agentcore/)
+- [AgentCoreRuntimeSandbox reference (Mastra)](https://mastra.ai/reference/workspace/agentcore-runtime-sandbox)
+
+### Concepts and comparisons
+
+- [Agent Sandboxing (Agentic AI Knowledge Base)](https://agentic-ai.readthedocs.io/en/latest/SecurityFrameworks/agent-sandboxing/)
+- [How to sandbox AI agents: microVMs, gVisor and isolation (Northflank)](https://northflank.com/blog/how-to-sandbox-ai-agents)
+- [AI agent sandbox guide (Firecrawl)](https://www.firecrawl.dev/blog/ai-agent-sandbox)
+- [AI agent sandboxing guide: primitives, runtimes and platforms (Manveer C.)](https://manveerc.substack.com/p/ai-agent-sandboxing-guide)
+- [Self-hosting Firecracker and E2B with GPUs (Spheron)](https://www.spheron.network/blog/ai-agent-code-execution-sandbox-e2b-daytona-firecracker/)
+- [AI agent sandbox providers compared 2026 (Upstash)](https://upstash.com/blog/ai-agent-sandbox-providers-compared-2026)
+
+### Security and incidents
+
+- [Anatomy of a Frontier Lab Agent Intrusion (Hugging Face)](https://huggingface.co/blog/agent-intrusion-technical-timeline)
+- [OpenAI agent used exposed credentials (The Hacker News)](https://thehackernews.com/2026/07/openai-agent-used-exposed-credentials.html)
+- [OpenAI's agent escaped its sandbox during a security test (Malwarebytes)](https://www.malwarebytes.com/blog/news/2026/07/openais-agent-escaped-its-sandbox-during-a-security-test)
+
 ## AI for SRE and DevOps
 
 - [HolmesGPT: SRE agent (CNCF Sandbox)](https://github.com/HolmesGPT/holmesgpt)
